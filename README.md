@@ -54,7 +54,7 @@
                 // Setelah 7 detik, munculin hasil prank
                 setTimeout(() => {
                     clearInterval(job);
-                    log.innerHTML = "<h1 style='color:yellow;'>KHODAM ANDA: KAKEK TUA</h1>";
+                    log.innerHTML = "<h1 style='color:yellow;'>KHODAM ANDA: MACAN PUTIH</h1>";
                     alert("HASIL PENERAWANGAN:\nKhodam yang mendampingi Anda adalah KAKEK TUA.");
                 }, 7500);
 
